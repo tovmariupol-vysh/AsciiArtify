@@ -14,3 +14,6 @@
 |                   | docker              |                          |                          |
 | Support podman    | experimental        | yes                      |  yes                     |
 | Support multinode | no                  | yes                      |  yes                     |
+
+
+![k3d-demo](https://github.com/user-attachments/assets/284d2cfc-58ca-4811-9ca2-c6daf8f63a06)
