@@ -14,3 +14,7 @@ https://github.com/tovmariupol-vysh/go-demo-app.git
 
 The following presentation shows the full cycle of tracking changes in the repository and making changes to a Kubernetes cluster object
 
+
+
+https://github.com/user-attachments/assets/81a289b2-d37d-4cc0-93d3-d83ada6d6dbc
+
